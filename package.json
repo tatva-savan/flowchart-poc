@@ -2,7 +2,7 @@
   "name": "flowchart-builder",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/tatva-savan.github.io/flowchart-poc",
+  "homepage": "https://tatva-savan.github.io/flowchart-poc",
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
     "@testing-library/jest-dom": "^6.6.3",
