@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/tatva-savan.github.io/flowchart-poc/static/css/main.616ba065.css",
+    "main.js": "/tatva-savan.github.io/flowchart-poc/static/js/main.8ca49299.js",
+    "static/js/453.9419ed93.chunk.js": "/tatva-savan.github.io/flowchart-poc/static/js/453.9419ed93.chunk.js",
+    "index.html": "/tatva-savan.github.io/flowchart-poc/index.html",
+    "main.616ba065.css.map": "/tatva-savan.github.io/flowchart-poc/static/css/main.616ba065.css.map",
+    "main.8ca49299.js.map": "/tatva-savan.github.io/flowchart-poc/static/js/main.8ca49299.js.map",
+    "453.9419ed93.chunk.js.map": "/tatva-savan.github.io/flowchart-poc/static/js/453.9419ed93.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.616ba065.css",
+    "static/js/main.8ca49299.js"
+  ]
+}
